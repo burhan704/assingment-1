@@ -175,5 +175,25 @@ margin-left: 141px;
 }
 
 footer{ 
-    background-color: #83a7f6g;
+    background-color: #bac2d5;
+    padding: 80px;
+}
+.logo{ 
+color: #4E47FF;
+   font-size: 100px; 
+   text-align: center;
+   gap: 0px;
+}
+
+.footer-p{ 
+   color: #252432; 
+   text-align: center;
+
+}
+.ul-footer{ 
+
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+
 }
